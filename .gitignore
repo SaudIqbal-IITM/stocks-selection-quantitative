@@ -1,0 +1,8 @@
+# Saving checkpoints.
+.ipynb_checkpoints/
+
+# Virtual environment.
+my_env
+
+# API key.
+APIKey.py
