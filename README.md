@@ -1,9 +1,25 @@
 # Selection of Stocks for Investment using Quantitative Strategies
 
-## Project Outline
+<p align="center">
+  <img src="images/main.jpg" alt="Logo" height="400">
 
-- Section 1: Algorithmic Trading Fundamentals
-- Section 2: Course Configuration & API Basics
-- Section 3: Building An Equal-Weight S&P 500 Index Fund
-- Section 4: Building A Quantitative Momentum Investing Strategy
-- Section 5: Building A Quantitative Value Investing Strategy
+  <p align="center">
+    This project implements various investing strategies for computing how many and which shares of S&P 500 someone should purchase.
+  </p>
+</p>
+
+<br/>
+
+## Project Structure
+
+| Number |                                                                                 Notebook                                                                                 | Description                                                                                                                    |
+| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ |
+|   01   |         [Equal-Weight S&P 500 Index Fund ](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/001_equal_weight_S%26P_500.ipynb)         | Computes how many shares of each S&P 500 constituent someone should purchase to get an equal-weight version of the index fund. |
+|   02   | [Quantitative Momentum Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/002_quantitative_momentum_strategy.ipynb) | Investing strategy that selects 50 stocks with highest price momentum.                                                         |
+|   03   |    [Quantitative Value Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/003_quantitative_value_strategy.ipynb)    | Investing strategy that selects 50 stocks with best value metrics.                                                             |
+
+<br/>
+
+## References
+
+- [Algorithmic Trading Using Python](https://www.youtube.com/watch?v=xfzGZB4HhEE)
