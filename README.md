@@ -12,11 +12,11 @@
 
 ## Project Structure
 
-| Number |                                                                                 Notebook                                                                                 | Description                                                                                                                    |
-| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ |
-|   01   |         [Equal-Weight S&P 500 Index Fund ](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/001_equal_weight_S%26P_500.ipynb)         | Computes how many shares of each S&P 500 constituent someone should purchase to get an equal-weight version of the index fund. |
-|   02   | [Quantitative Momentum Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/002_quantitative_momentum_strategy.ipynb) | Investing strategy that selects 50 stocks with highest price momentum.                                                         |
-|   03   |    [Quantitative Value Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/003_quantitative_value_strategy.ipynb)    | Investing strategy that selects 50 stocks with best value metrics.                                                             |
+| Number |                                                                                Notebook                                                                                 | Description                                                                                                                    |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ |
+|   01   |         [Equal-Weight S&P 500 Index Fund ](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/01_equal_weight_S%26P_500.ipynb)         | Computes how many shares of each S&P 500 constituent someone should purchase to get an equal-weight version of the index fund. |
+|   02   | [Quantitative Momentum Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/02_quantitative_momentum_strategy.ipynb) | Investing strategy that selects 50 stocks with highest price momentum.                                                         |
+|   03   |    [Quantitative Value Investing Strategy](https://github.com/SaudIqbal-IITM/stocks-selection-quantitative/blob/main/notebooks/03_quantitative_value_strategy.ipynb)    | Investing strategy that selects 50 stocks with best value metrics.                                                             |
 
 <br/>
 
